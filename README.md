@@ -1,3 +1,3 @@
 # Project-2022
-![48556.jpg](https://github.com/Semvt/Project-2022/blob/main/48556.jpg)
+![Big_Sur_Simple](https://github.com/Semvt/Project-2022/blob/main/Big_Sur_Simple.png)
 test-site
