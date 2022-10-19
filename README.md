@@ -1,2 +1,5 @@
-[Example][]
-[Example]: http://example.com/
+```sh
+cd dillinger
+npm i
+node app
+```
